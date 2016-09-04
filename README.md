@@ -1,6 +1,9 @@
 We don't own any of the game's music.
 
 
+![Screenshot](https://raw.githubusercontent.com/brandonpickering/super-mccrario-bros/master/Capture.PNG)
+
+
 ```
             Super McCrario Bros.
 
